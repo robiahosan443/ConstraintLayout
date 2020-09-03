@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Layout3</string>
+
+    <string name="signUp">signUp :</string>
+    <string name="name">name :</string>
+    <string name="username">username :</string>
+    <string name="email">email :</string>
+    <string name="password">password :</string>
+
+</resources>
